@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="DB.check(userName,userPass)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
